@@ -11,4 +11,3 @@ Este respositório é responsável por armazenar o questionários de entrevista 
   - Nome do cliente
   - Data da entrevista
   - Perguntas
-- Link do repositório será disponibilizado.
